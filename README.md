@@ -1,46 +1,51 @@
 # ¡Hola! Soy Christian 👋
 
-Soy un desarrollador de software apasionado por crear soluciones tecnológicas. En mi perfil de GitHub encontrarás mis proyectos, mis aprendizajes y, sobre todo, mi evolución como programador. Siempre estoy buscando mejorar mis habilidades y contribuir a proyectos interesantes.
+Soy un desarrollador de software apasionado por crear soluciones tecnológicas que resuelvan problemas reales. Me encanta aprender nuevas tecnologías, enfrentarme a desafíos y colaborar con otros en proyectos interesantes. Mi perfil de GitHub refleja mi evolución como programador, desde proyectos pequeños hasta iniciativas más complejas.
 
-## Sobre mí:
+## 🚀 Sobre mí
 
-🔭 Actualmente trabajando en: Soporte IT.  
-🌱 Estoy aprendiendo: Lógica de Programación.  
-👯 Buscando colaborar en: FullStack Junior.  
-🤔 Pregúntame sobre: FullStack, Data Science.  
-💬 Pregúntame sobre: Desarrollo web.
+🔭 **Actualmente trabajando en**: Soporte IT y desarrollo de proyectos personales.  
+🌱 **Estoy aprendiendo**: Lógica de programación, estructuras de datos y algoritmos.  
+👯 **Buscando colaborar en**: Proyectos como desarrollador FullStack Junior.  
+🤔 **Pregúntame sobre**: FullStack, Data Science y Desarrollo Web.  
+💬 **Intereses**: Desarrollo web, optimización de bases de datos, y creación de aplicaciones interactivas.
 
-## Tecnologías y Herramientas que Uso:
+### Herramientas y Entornos de Desarrollo:
+- **Git & GitHub** (Control de versiones, colaboración)
+- **Visual Studio Code** (Editor de código)
+- **MySQL / PostgreSQL** (Bases de datos relacionales)
 
-### Lenguajes:
-- JavaScript
-- Python
-- C#
-- Java
+## 💡 Proyectos Destacados
 
-### Frameworks y Librerías:
-- React
-- Node.js
+### 🚀 [CRUD para gestión de clientes](https://chrisbaroneyt.github.io/CRUD/)
+Este proyecto simula la gestión de clientes para un restaurante de comida rápida, permitiendo crear, leer, actualizar y eliminar registros en una base de datos. Implementé un sistema de autenticación para proteger las acciones administrativas.
 
-### Herramientas:
-- Git & GitHub
-- Visual Studio Code
+- **Tecnologías usadas**: PHP, JavaScript, SQL  
+- **Desafíos**: Implementación de un sistema de autenticación seguro, manejo eficiente de datos y optimización de la experiencia del usuario.  
+- **Lecciones aprendidas**: Profundicé en la manipulación de bases de datos SQL, y aprendí a manejar sesiones y autenticación de manera segura.
 
-## Mis Proyectos Destacados:
+### 🧩 [Adivina el Número](https://chrisbaroneyt.github.io/AdivinaNumero/)
+Un juego interactivo donde el usuario debe adivinar un número aleatorio generado por el sistema, recibiendo pistas sobre si su número es mayor o menor que el objetivo.
 
-### 🚀 [CRUD](https://chrisbaroneyt.github.io/CRUD/)
-Este es un proyecto para gestionar clientes en un restaurante de comida rápida, utilizando PHP, JavaScript y SQL. El sistema permite crear, leer, actualizar y eliminar clientes en la base de datos, con un sistema de autenticación para proteger el acceso a la administración.
+- **Tecnologías usadas**: JavaScript, HTML, CSS  
+- **Desafíos**: Crear una experiencia de usuario dinámica, gestionar la interacción en tiempo real y mejorar la jugabilidad.  
+- **Lecciones aprendidas**: Mejoré mis habilidades con la manipulación del DOM y la lógica de juegos interactivos.
 
-**Tecnologías usadas**: PHP, JavaScript, SQL  
-**Desafíos**: Implementación de un sistema de autenticación seguro y gestión eficiente de datos en la base de datos.
+## Lenguajes de Programación 💻
+- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)**
+- **[Python](https://www.python.org/)**
+- **[C#](https://learn.microsoft.com/es-es/dotnet/csharp/)**
+- **[Java](https://www.oracle.com/java/)**
+- **[HTML5](https://developer.mozilla.org/es/docs/Web/HTML)**
+- **[CSS3](https://developer.mozilla.org/es/docs/Web/CSS)**
 
-### 🖥️ [AdivinaNumero](https://chrisbaroneyt.github.io/AdivinaNumero/)
-Un juego sencillo donde el usuario debe adivinar un número generado aleatoriamente por el programa. El juego le da pistas si el número ingresado es mayor o menor que el objetivo.
+## Conéctate conmigo 🌐
 
-**Tecnologías usadas**: JavaScript  
-**Desafíos**: Generación de números aleatorios y gestión de la interacción con el usuario en tiempo real.
+¡Me encantaría conectar contigo! Aquí están mis redes sociales para que podamos seguir en contacto:
 
-## Conéctate conmigo:
+- **[LinkedIn](https://www.linkedin.com/in/christhiand/)**: Para conectar a nivel profesional y explorar oportunidades de colaboración.
+- **[YouTube](https://www.youtube.com/@ChrisBaroneYT)** 
+- **[Facebook](https://www.facebook.com/ChrisBaroneYT/)**: Para seguir mis publicaciones y proyectos.
+- **[Instagram](https://www.instagram.com/chrisbaroneyt/)**: Compartiendo momentos de mi día a día y mi progreso como desarrollador.
 
-💼 [LinkedIn](https://www.linkedin.com/in/tu-enlace)  
-🎉 Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante en mis repositorios! Si tienes alguna pregunta o te gustaría colaborar, no dudes en ponerte en contacto conmigo.
+¡No dudes en seguirme y escribir si tienes alguna pregunta o sugerencia! 😊
